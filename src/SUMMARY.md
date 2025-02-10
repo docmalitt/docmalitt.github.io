@@ -1,6 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Intro](./intro.md)
 
 # Posts
 
@@ -9,3 +9,5 @@
 - [LVM and RAID](./lvm_and_raid.md)
 
 - [Docker Container Cheatsheet](./docker_container-cheatsheet.md)
+
+- [General Cheatsheet](./cheatsheets.md)
